@@ -2,7 +2,7 @@
 
 void main()
 {
-  P2_0=1;    	/*Turn ON the LED */
+  P2_0=1;    	/*Turn OFF the LED */
   while(1)  	/* Super loop (Infinite loop) */
   {
   }
