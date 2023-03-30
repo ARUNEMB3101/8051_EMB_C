@@ -2,7 +2,7 @@
 void wait(void)
 {
 int i;
-for(i=0;i<20000;i++)
+for(i=0;i<20000;i++) //DELAY PROGRAM
 {
 }
 }
